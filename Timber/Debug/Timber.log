@@ -1,0 +1,10 @@
+﻿  timber.cpp
+c:\users\trevor\proyectos c++\timber\timber\timber.cpp(66): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\trevor\proyectos c++\timber\timber\timber.cpp(247): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\trevor\proyectos c++\timber\timber\timber.cpp(273): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\trevor\proyectos c++\timber\timber\timber.cpp(323): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\trevor\proyectos c++\timber\timber\timber.cpp(327): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\trevor\proyectos c++\timber\timber\timber.cpp(344): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\trevor\proyectos c++\timber\timber\timber.cpp(348): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\trevor\proyectos c++\timber\timber\timber.cpp(370): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+  Timber.vcxproj -> C:\Users\Trevor\Proyectos c++\Timber\Debug\Timber.exe
